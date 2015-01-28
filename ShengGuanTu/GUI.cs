@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-public class guitest2: MonoBehaviour {
+public class GUI: MonoBehaviour {
 
     //Booleans/counters for buttons
     bool notesbool = false;
