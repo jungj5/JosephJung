@@ -1,0 +1,100 @@
+Enter the starting URL ==> http://csci1100.dyndns-wiki.com/ver2/201303/Ada_Lovelace
+Enter the maximum number of links ==> 50
+Part 1:
+Here are the 54 links in the order found:
+http://csci1100.dyndns-wiki.com/ver2/201303/Ada_Lovelace
+http://csci1100.dyndns-wiki.com/ver2/201208/London
+http://csci1100.dyndns-wiki.com/ver2/201308/Marylebone
+http://csci1100.dyndns-wiki.com/ver2/201307/Nottingham
+http://csci1100.dyndns-wiki.com/ver2/201302/William_King-Noel,_1st_Earl_of_Lovelace
+http://csci1100.dyndns-wiki.com/ver2/201210/Byron_King-Noel,_Viscount_Ockham
+http://csci1100.dyndns-wiki.com/ver2/201206/Buckingham_Palace
+http://csci1100.dyndns-wiki.com/ver2/201310/St_Pancras_railway_station
+http://csci1100.dyndns-wiki.com/ver2/201206/The_Shard
+http://csci1100.dyndns-wiki.com/ver2/201201/Canary_Wharf
+http://csci1100.dyndns-wiki.com/ver2/201201/Palace_of_Westminster
+http://csci1100.dyndns-wiki.com/ver2/201306/St_Mary-le-Bow
+http://csci1100.dyndns-wiki.com/ver2/201310/Geographic_coordinate_system
+http://csci1100.dyndns-wiki.com/ver2/201303/Marylebone_station
+http://csci1100.dyndns-wiki.com/ver2/201307/Greater_London
+http://csci1100.dyndns-wiki.com/ver2/201308/Ordnance_Survey_National_Grid
+http://csci1100.dyndns-wiki.com/ver2/201311/Nottinghamshire
+http://csci1100.dyndns-wiki.com/ver2/201312/Nottingham_City_Centre
+http://csci1100.dyndns-wiki.com/ver2/201303/City_status_in_the_United_Kingdom
+http://csci1100.dyndns-wiki.com/ver2/201201/Unitary_authorities_of_England
+http://csci1100.dyndns-wiki.com/ver2/201303/Nottingham_Council_House
+http://csci1100.dyndns-wiki.com/ver2/201206/Anne_Blunt,_15th_Baroness_Wentworth
+http://csci1100.dyndns-wiki.com/ver2/201304/Ralph_King-Milbanke,_2nd_Earl_of_Lovelace
+http://csci1100.dyndns-wiki.com/ver2/201312/Peter_King,_7th_Baron_King
+http://csci1100.dyndns-wiki.com/ver2/201310/Peerage
+http://csci1100.dyndns-wiki.com/ver2/201209/Baron_Wentworth
+http://csci1100.dyndns-wiki.com/ver2/201305/Anne_Isabella_Byron,_Baroness_Byron
+http://csci1100.dyndns-wiki.com/ver2/201310/Macclesfield_Castle
+http://csci1100.dyndns-wiki.com/ver2/201208/Facade
+http://csci1100.dyndns-wiki.com/ver2/201305/Edward_Blore
+http://csci1100.dyndns-wiki.com/ver2/201205/Aston_Webb
+http://csci1100.dyndns-wiki.com/ver2/201307/Queen_Victoria
+http://csci1100.dyndns-wiki.com/ver2/201201/London_Underground
+http://csci1100.dyndns-wiki.com/ver2/201304/National_Rail
+http://csci1100.dyndns-wiki.com/ver2/201209/St_Pancras,_London
+http://csci1100.dyndns-wiki.com/ver2/201209/London_Borough_of_Camden
+http://csci1100.dyndns-wiki.com/ver2/201306/Network_Rail
+http://csci1100.dyndns-wiki.com/ver2/201306/Southwark
+http://csci1100.dyndns-wiki.com/ver2/201202/England
+http://csci1100.dyndns-wiki.com/ver2/201301/United_Kingdom
+http://csci1100.dyndns-wiki.com/ver2/201306/One_Canada_Square
+http://csci1100.dyndns-wiki.com/ver2/201307/Districts_of_England
+http://csci1100.dyndns-wiki.com/ver2/201203/Elizabeth_Tower
+http://csci1100.dyndns-wiki.com/ver2/201201/Westminster_Bridge
+http://csci1100.dyndns-wiki.com/ver2/201208/River_Thames
+http://csci1100.dyndns-wiki.com/ver2/201307/City_of_Westminster
+http://csci1100.dyndns-wiki.com/ver2/201304/Bow_Church
+http://csci1100.dyndns-wiki.com/ver2/201210/Christian_denomination
+http://csci1100.dyndns-wiki.com/ver2/201204/Church_of_England
+http://csci1100.dyndns-wiki.com/ver2/201211/Sphere
+http://csci1100.dyndns-wiki.com/ver2/201201/Ellipsoid
+http://csci1100.dyndns-wiki.com/ver2/201209/Longitude
+http://csci1100.dyndns-wiki.com/ver2/201206/Geodesy
+http://csci1100.dyndns-wiki.com/ver2/201308/Geodynamics
+....
+Part 2: Counting URLs containing substrings
+Number containing 'nottingham' is: 4
+Number containing 'london' is: 5
+....
+Part 3, modification dates:
+Earliest date is 201201 with 6 changes
+Latest date is 201312 with 2 changes
+Most modifications is 6, dates are:
+201201
+....
+Part 4:
+opened URL http://csci1100.dyndns-wiki.com/ver2/201303/Ada_Lovelace and found 1990 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver2/201208/London and found 5927 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver2/201308/Marylebone and found 1444 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver2/201307/Nottingham and found 5199 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver2/201302/William_King-Noel,_1st_Earl_of_Lovelace and found 165 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver2/201210/Byron_King-Noel,_Viscount_Ockham and found 58 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver2/201206/Buckingham_Palace and found 2561 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver2/201310/St_Pancras_railway_station and found 3178 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver2/201206/The_Shard and found 1414 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver2/201201/Canary_Wharf and found 1226 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver2/201201/Palace_of_Westminster and found 5743 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver2/201306/St_Mary-le-Bow and found 443 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver2/201310/Geographic_coordinate_system and found 954 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver2/201303/Marylebone_station and found 1694 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver2/201307/Greater_London and found 2193 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver2/201308/Ordnance_Survey_National_Grid and found 713 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver2/201311/Nottinghamshire and found 1085 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver2/201312/Nottingham_City_Centre and found 492 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver2/201303/City_status_in_the_United_Kingdom and found 3659 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver2/201201/Unitary_authorities_of_England and found 943 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver2/201303/Nottingham_Council_House and found 1098 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver2/201206/Anne_Blunt,_15th_Baroness_Wentworth and found 731 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver2/201304/Ralph_King-Milbanke,_2nd_Earl_of_Lovelace and found 141 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver2/201312/Peter_King,_7th_Baron_King and found 328 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver2/201310/Peerage and found 1593 eligible words
+The following words appear on 19 pages among the first 25
+england
+high
+history
+london

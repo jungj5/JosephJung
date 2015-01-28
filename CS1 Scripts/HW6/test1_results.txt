@@ -1,0 +1,38 @@
+Enter the starting URL ==> http://csci1100.dyndns-wiki.com/ver1/201303/Ada_Lovelace
+Enter the maximum number of links ==> 10
+Part 1:
+Here are the 7 links in the order found:
+http://csci1100.dyndns-wiki.com/ver1/201303/Ada_Lovelace
+http://csci1100.dyndns-wiki.com/ver1/201301/London
+http://csci1100.dyndns-wiki.com/ver1/201305/Marylebone
+http://csci1100.dyndns-wiki.com/ver1/201310/Buckingham_Palace
+http://csci1100.dyndns-wiki.com/ver1/201210/St_Pancras_railway_station
+http://csci1100.dyndns-wiki.com/ver1/201303/St_Mary-le-Bow
+http://csci1100.dyndns-wiki.com/ver1/201210/Geographic_coordinate_system
+....
+Part 2: Counting URLs containing substrings
+Number containing 'nottingham' is: 0
+Number containing 'london' is: 1
+....
+Part 3, modification dates:
+Earliest date is 201210 with 2 changes
+Latest date is 201310 with 1 changes
+Most modifications is 2, dates are:
+201210
+201303
+....
+Part 4:
+opened URL http://csci1100.dyndns-wiki.com/ver1/201303/Ada_Lovelace and found 1990 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver1/201301/London and found 5927 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver1/201305/Marylebone and found 1444 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver1/201310/Buckingham_Palace and found 2561 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver1/201210/St_Pancras_railway_station and found 3178 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver1/201303/St_Mary-le-Bow and found 449 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver1/201210/Geographic_coordinate_system and found 954 eligible words
+The following words appear on 7 pages among the first 7
+century
+early
+great
+history
+london
+world

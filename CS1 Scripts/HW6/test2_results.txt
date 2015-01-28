@@ -1,0 +1,60 @@
+Enter the starting URL ==> http://csci1100.dyndns-wiki.com/ver2/201303/Ada_Lovelace
+Enter the maximum number of links ==> 20
+Part 1:
+Here are the 21 links in the order found:
+http://csci1100.dyndns-wiki.com/ver2/201303/Ada_Lovelace
+http://csci1100.dyndns-wiki.com/ver2/201208/London
+http://csci1100.dyndns-wiki.com/ver2/201308/Marylebone
+http://csci1100.dyndns-wiki.com/ver2/201307/Nottingham
+http://csci1100.dyndns-wiki.com/ver2/201302/William_King-Noel,_1st_Earl_of_Lovelace
+http://csci1100.dyndns-wiki.com/ver2/201210/Byron_King-Noel,_Viscount_Ockham
+http://csci1100.dyndns-wiki.com/ver2/201206/Buckingham_Palace
+http://csci1100.dyndns-wiki.com/ver2/201310/St_Pancras_railway_station
+http://csci1100.dyndns-wiki.com/ver2/201206/The_Shard
+http://csci1100.dyndns-wiki.com/ver2/201201/Canary_Wharf
+http://csci1100.dyndns-wiki.com/ver2/201201/Palace_of_Westminster
+http://csci1100.dyndns-wiki.com/ver2/201306/St_Mary-le-Bow
+http://csci1100.dyndns-wiki.com/ver2/201310/Geographic_coordinate_system
+http://csci1100.dyndns-wiki.com/ver2/201303/Marylebone_station
+http://csci1100.dyndns-wiki.com/ver2/201307/Greater_London
+http://csci1100.dyndns-wiki.com/ver2/201308/Ordnance_Survey_National_Grid
+http://csci1100.dyndns-wiki.com/ver2/201311/Nottinghamshire
+http://csci1100.dyndns-wiki.com/ver2/201312/Nottingham_City_Centre
+http://csci1100.dyndns-wiki.com/ver2/201303/City_status_in_the_United_Kingdom
+http://csci1100.dyndns-wiki.com/ver2/201201/Unitary_authorities_of_England
+http://csci1100.dyndns-wiki.com/ver2/201303/Nottingham_Council_House
+....
+Part 2: Counting URLs containing substrings
+Number containing 'nottingham' is: 4
+Number containing 'london' is: 2
+....
+Part 3, modification dates:
+Earliest date is 201201 with 3 changes
+Latest date is 201312 with 1 changes
+Most modifications is 4, dates are:
+201303
+....
+Part 4:
+opened URL http://csci1100.dyndns-wiki.com/ver2/201303/Ada_Lovelace and found 1990 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver2/201208/London and found 5927 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver2/201308/Marylebone and found 1444 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver2/201307/Nottingham and found 5199 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver2/201302/William_King-Noel,_1st_Earl_of_Lovelace and found 165 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver2/201210/Byron_King-Noel,_Viscount_Ockham and found 58 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver2/201206/Buckingham_Palace and found 2561 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver2/201310/St_Pancras_railway_station and found 3178 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver2/201206/The_Shard and found 1414 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver2/201201/Canary_Wharf and found 1226 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver2/201201/Palace_of_Westminster and found 5743 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver2/201306/St_Mary-le-Bow and found 443 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver2/201310/Geographic_coordinate_system and found 954 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver2/201303/Marylebone_station and found 1694 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver2/201307/Greater_London and found 2193 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver2/201308/Ordnance_Survey_National_Grid and found 713 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver2/201311/Nottinghamshire and found 1085 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver2/201312/Nottingham_City_Centre and found 492 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver2/201303/City_status_in_the_United_Kingdom and found 3659 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver2/201201/Unitary_authorities_of_England and found 943 eligible words
+opened URL http://csci1100.dyndns-wiki.com/ver2/201303/Nottingham_Council_House and found 1098 eligible words
+The following words appear on 18 pages among the first 21
+london
